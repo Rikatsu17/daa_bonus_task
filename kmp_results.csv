@@ -1,0 +1,4 @@
+Test_Case,Text,Pattern,Text_Length,Pattern_Length,Expected_Matches_Count,Expected_Matches_Indices,Execution_Time_(ms)
+Short_Text,ABABABC,ABAB,7,4,2,"0, 2",1.4765
+Medium_Text,AABACAADAABAAABAAABACAAABA,AABA,26,4,5,"0, 8, 12, 16, 22",0.2047
+Long_Text,AABACAADAABAAABAAABACAAABAAABACAAABAAABAC,AAABAC,41,6,3,"15, 25, 35",0.1926
