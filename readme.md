@@ -17,6 +17,7 @@
 - N is length of the pattern, M is length of the text
 
 <h2>Metrics</h2>
+<img width="1074" height="102" alt="image" src="https://github.com/user-attachments/assets/4387155a-1b0d-4c66-80de-20d843f5f86a" />
 
 
 <p>The KMP algorithm efficiently found all pattern occurrences across various text lengths, demonstrating fast execution times once the environment was warmed up</p>
