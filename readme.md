@@ -16,6 +16,9 @@
 
 - N is length of the pattern, M is length of the text
 
+<h2>Metrics</h2>
 
+
+<p>The KMP algorithm efficiently found all pattern occurrences across various text lengths, demonstrating fast execution times once the environment was warmed up</p>
 
 <h2>Conclusion</h2><br>The Knuth-Morris-Pratt (KMP) algorithm is a highly efficient string matching solution. By leveraging the precomputed LPS array, it intelligently handles mismatches, significantly reducing the number of comparisons and achieving an optimal linear time complexity of $O(N+M)$.
